@@ -1,4 +1,4 @@
-#!/usr/bin/env scheme-program
+#!/usr/bin/env scheme-script
 
 (import (chezscheme)
         (unittest))
